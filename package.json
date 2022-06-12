@@ -1,0 +1,19 @@
+{
+  "name": "aws-cloud-development-be",
+  "version": "0.0.1",
+  "description": "rs school aws cloud development course assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/va259/aws-cloud-development-be.git"
+  },
+  "author": "va259",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/va259/aws-cloud-development-be/issues"
+  },
+  "homepage": "https://github.com/va259/aws-cloud-development-be#readme"
+}
